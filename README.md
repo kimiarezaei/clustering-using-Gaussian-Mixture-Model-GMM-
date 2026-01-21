@@ -13,7 +13,7 @@ This project explores the use of unsupervised learning to cluster heart rate var
 ## Clustering Results
 
 <p align="center">
-  <img src="feature_clusters.png" width="400" alt="GMM clustering of HRV features">
+  <img src="feature_clusters.png" width="800" alt="GMM clustering of HRV features">
 </p>
 
 *3D visualization of HRV feature space showing raw data distribution, GMM clustering results, and expert-labeled seizure annotations.*
